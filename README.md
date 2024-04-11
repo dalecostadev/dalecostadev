@@ -14,6 +14,8 @@ Hello world!!! I'm Dalecosta, a seasoned Software and DevOps Engineer. From imme
 
 If you're curious about who I am and what I do in life, please look at my [website](https://dalecosta.com) or for more details see my [about me](https://dalecosta.com/blog/about-me) section!
 
+If you need to contact me, you can do so at `dalecostadev@protonmail.com` or through the social media `@dalecostadev`.
+
 If you'd like to support me, you can check out my [GitHub Sponsors](https://github.com/sponsors/dalecostadev) or my [donation page](https://dalecosta.com/donate). Thanks to all the people who will support me 🙏
 
 ----- 
