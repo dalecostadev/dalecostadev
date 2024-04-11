@@ -10,7 +10,7 @@
 
 ### About me
 
-Discover the dynamic journey of Dalecosta, a seasoned Software and DevOps Engineer. From immersive hackathons to spearheading digital transformations, my experience in cloud services, DevOps practices and backend development drives innovation and excellence 🚀🚀
+Hello world I'm Dalecosta, a seasoned Software and DevOps Engineer. From immersive hackathons to spearheading digital transformations, my experience in cloud services, DevOps practices and backend development drives innovation and excellence 🚀🚀
 
 If you want to know more about the languages and tools I use, please look at my [website](https://dalecosta.com) or for more details see my [about me](https://dalecosta.com/blog/about-me) section!
 
