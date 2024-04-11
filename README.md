@@ -18,7 +18,7 @@ If you'd like to support me, you can check out my [GitHub Sponsors](https://gith
 
 ----- 
 
-<h3 align="center">Navigate through the languages, tools, frameworks and libraries powering my development journey</h3>
+<p align="center"><b>Navigate through the languages, tools, frameworks and libraries powering my development journey</b></p>
 
 
 <p align="center">
