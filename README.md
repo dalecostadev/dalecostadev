@@ -15,3 +15,14 @@ Discover the dynamic journey of Dalecosta, a seasoned Software and DevOps Engine
 If you want to know more about the languages and tools I use, please look at my [website](https://dalecosta.com) or for more details see my [about me](https://dalecosta.com/blog/about-me) section!
 
 If you'd like to support me, you can check out my [GitHub Sponsors](https://github.com/sponsors/dalecostadev) or my [donation page](https://dalecosta.com/donate).
+
+----- 
+
+<h3 align="center">Navigate through the languages, tools, frameworks and libraries powering my development journey</h3>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gitlab,github,vscode,visualstudio,git,npm,bun,gradle,nodejs,react,materialui,astro,html,css,tailwind,javascript,typescript,wasm,prisma,dotnet,cs,python,flask,go,bash,azure,aws,kubernetes,docker,githubactions,grafana,prometheus,ansible,terraform,kafka,jenkins,regex,nginx,mongodb,mysql,redis,ipfs,linux,windows,raspberrypi" />
+  </a>
+</p>
