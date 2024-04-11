@@ -18,7 +18,7 @@ If you need to contact me, you can do so at `dalecostadev@protonmail.com` or thr
 
 ----- 
 
-<p align="center"><b>Navigate through the languages, tools, frameworks and libraries powering my development journey</b></p>
+<p align="center"><b>Navigate through the languages, tools, os, frameworks and libraries powering my development journey</b></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
